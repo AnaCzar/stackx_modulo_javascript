@@ -1,2 +1,2 @@
-# stackx_modulo_java
-## Exercicios realizados em Java no curso Stackx nov.23
+# stackx_modulo_javaScript
+## Exercicios realizados em JavaScript no curso Stackx nov.23
